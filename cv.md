@@ -5,9 +5,10 @@
 * Address: Russia, Kaliningrad
 * Phone: 79097793737
 * Email: vacick@gmail.com
+* Discord: @Pereemnik
 
 ## About Me
-I have a small business selling dairy products. I would like to try myself in the IT field.
+I am organized and methodical individual. I have an active and dynamic approach to work and getting things done. I willing to learn and develop new skills in the IT field. I have a small business selling dairy products. I like playing ping pong and cycling.
 ## Education
 [Adyghe State University](https://www.adygnet.ru/), economist-manager
 
