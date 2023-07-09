@@ -99,6 +99,18 @@ body {
     height: 40px;
     background-image: url(assets/ico/rs.svg);
     background-repeat: no-repeat;
+    background-size: contain;
+    min-width: 200px;
+  }
+
+  .git {
+    width: 100px;
+    height: 60px;
+    background-image: url(assets/ico/git.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-right: 900px;
+    min-width: 100px;
   }
  
 
