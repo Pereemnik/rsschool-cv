@@ -18,13 +18,6 @@ body {
   width: 50%;
 }
 
-
-/* @media (max-width: 768px) {
-  .section {
-    width: 100%;
-  }
-} */
-
 .section-title {
   margin-bottom: 30px;
   font-family: 'Times New Roman', serif;
@@ -34,13 +27,6 @@ body {
   letter-spacing: 9px;
   color: #04410d;
 }
-
-.link {
-  text-decoration: none;
-  color: #99c09e;
-  transition: color 0.5s;
-}
-
 
 .container {
     max-width: 1440px;
@@ -103,15 +89,6 @@ body {
     min-width: 200px;
   }
 
-  .git {
-    width: 100px;
-    height: 60px;
-    background-image: url(assets/ico/git.png);
-    background-repeat: no-repeat;
-    background-size: contain;
-    margin-right: 900px;
-    min-width: 100px;
-  }
  
 
   
